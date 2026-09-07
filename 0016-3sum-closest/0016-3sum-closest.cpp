@@ -16,7 +16,8 @@ public:
                 result = sum;
              }
              if(sum == target){
-                return sum;
+                left++;
+                right--;
              }
              else if(sum< target){
                 left++;
