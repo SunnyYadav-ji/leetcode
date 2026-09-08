@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SunnyYadav-ji/leetcode/tree/master/0002-add-two-numbers) |
+| [3870-count-commas-in-range](https://github.com/SunnyYadav-ji/leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
