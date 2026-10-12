@@ -8,12 +8,11 @@
  */
 class Solution {
 public:
-     #define null NULL
     bool hasCycle(ListNode *head) {
         
-        if(head == NULL ||head->next == NULL){
-            return false;
-        }
+        // if(head == NULL ||head->next == NULL){
+        //     return false;
+        // }
        
       ListNode*slow=head;
       ListNode*fast=head;
